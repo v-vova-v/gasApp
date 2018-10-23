@@ -1,0 +1,9 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "@types/google-apps-script": "0.0.29",
+    "@types/node": "^10.11.7",
+    "package": "^1.0.1"
+  }
+}
